@@ -1,0 +1,6 @@
+<Solution>
+    <Project Path="Benjamin.Pizza.DocTest.Docs/Benjamin.Pizza.DocTest.Docs.proj" Type="C#" />
+    <Project Path="Benjamin.Pizza.DocTest.TestProject/Benjamin.Pizza.DocTest.TestProject.csproj" />
+    <Project Path="Benjamin.Pizza.DocTest.Tests/Benjamin.Pizza.DocTest.Tests.csproj" />
+    <Project Path="Benjamin.Pizza.DocTest/Benjamin.Pizza.DocTest.csproj" />
+</Solution>
