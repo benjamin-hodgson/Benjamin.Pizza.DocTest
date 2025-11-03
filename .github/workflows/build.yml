@@ -23,5 +23,3 @@ jobs:
     uses: benjamin-hodgson/BuildScripts/.github/workflows/dotnet.yml@main
     with:
       DOCS_FOLDER: Benjamin.Pizza.DocTest.Docs
-    secrets:
-      NUGET_KEY: ${{ secrets.NUGET_KEY }}
